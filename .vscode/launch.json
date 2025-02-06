@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/PandaStudent/c_dhbw_students/0001_Intro",
-      "program": "c:/PandaStudent/c_dhbw_students/0001_Intro/build/Debug/outDebug",
+      "cwd": "c:/PandaStudent/c_dhbw_students/0014_Threads/RACE_CONDITIONS",
+      "program": "c:/PandaStudent/c_dhbw_students/0014_Threads/RACE_CONDITIONS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
